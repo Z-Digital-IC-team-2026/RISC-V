@@ -1,3 +1,23 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 10/20/2023 03:08:55 PM
+// Design Name: 
+// Module Name: Main_Decoder
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
 module Main_Decoder(
   input zero,
   input [6:0] op,
@@ -12,7 +32,7 @@ module Main_Decoder(
   
   reg Branch, jump;
   
-  always@* begin
+  always@(*) begin
          
          RegWrite = 1'b0;
          immSrc = 2'b00;
@@ -49,7 +69,7 @@ module Main_Decoder(
     7'b0110011: begin
          RegWrite = 1'b1;
          immSrc = 2'bxx;
-         ALUSrc = 1'bx;
+         ALUSrc = 1'b0;
          MemWrite = 1'b0;
          ResultSrc = 2'b00;
          Branch = 1'b0;
