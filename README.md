@@ -16,7 +16,7 @@ Welcome to the Single-Cycle RISC-V Processor repository. This project presents a
 
 ## Architecture
 
-![Complete Single-Cycle RISC-V Processor](<"https://i.ibb.co/9Z0Nt7c/Screenshot-2023-10-20-172317.png">)
+![Complete Single-Cycle RISC-V Processor](<https://i.ibb.co/9Z0Nt7c/Screenshot-2023-10-20-172317.png>)
 
 The architecture of the Single-Cycle RISC-V Processor is based on the RISC-V ISA and comprises the following key components:
 
