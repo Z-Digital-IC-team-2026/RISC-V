@@ -52,7 +52,17 @@ The implementation of the Single-Cycle RISC-V Processor is primarily done using 
 
 ## Contributing
 
-Contributions to this project are highly appreciated. If you encounter any issues, have suggestions for improvements, or wish to contribute new features, please adhere to the standard GitHub contribution process. Feel free to open an issue to discuss problems or create a pull request to propose changes.
+The RISC-V Verilog Projects represent a remarkable collaborative effort to implement the open-source RISC-V instruction set architecture (ISA) using Verilog, a hardware description language. This initiative has been made possible by the dedication and expertise of several key contributors, including:
+
+Omar Mongy: A talented hardware engineer with a deep understanding of digital design and Verilog, Omar Mongy has been an essential part of the RISC-V Verilog Projects. His innovative contributions have played a crucial role in bringing the RISC-V ISA to life in hardware form.
+
+Khaled Mohamed: Khaled Mohamed is another accomplished member of the team, bringing his knowledge of digital logic and Verilog to the table. His work has been instrumental in developing the RISC-V processor cores and associated components.
+
+Mohamed Nabawi: Mohamed Nabawi's dedication and expertise in Verilog have been invaluable to the RISC-V Verilog Projects. He has made significant contributions to the implementation of the RISC-V ISA and the associated tooling.
+
+These contributors have collectively worked to design, simulate, and synthesize RISC-V processor cores and related hardware components in Verilog, making it possible for developers and enthusiasts to explore and experiment with the RISC-V architecture in the realm of digital hardware design.
+
+The RISC-V Verilog Projects serve as a testament to the power of open-source collaboration and the commitment of individuals like Omar Mongy, Khaled Mohamed, and Mohamed Nabawi in advancing open standards and fostering innovation in the field of computer architecture. Their dedication has helped make RISC-V accessible to a broader community of hardware designers and researchers, further promoting open and customizable computing solutions.
 
 ## License
 
